@@ -21,10 +21,9 @@ author: Xiaotian Zhang
 
 navbar-links:
   About Me: "aboutme"
-  Research:
-    - Overview: "https://beautifuljekyll.com"
-    - Publication: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Research: "research"
+  Publication: "publication"
+  Contact: "contact"
 
 ################
 # --- Logo --- #

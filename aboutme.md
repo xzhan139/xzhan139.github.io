@@ -1,18 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle: Born in [Handan](https://en.wikipedia.org/wiki/Handan), Grew up in [Beijing](https://en.wikipedia.org/wiki/Beijing), College in [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou), living in [Champaign](https://en.wikipedia.org/wiki/Champaign,_Illinois)
 ---
 ### Current Position
 Post-doc research associate, Carl R. Woese Institute for Genomic Biology, 
-University of Illinois at Urbana-Champaign
-Advisor: Dr. [Mattia Gazzola](https://mattia-lab.com)
+<br />University of Illinois at Urbana-Champaign
+<br />Advisor: Dr. [Mattia Gazzola](https://mattia-lab.com)
 ### Education
 PhD 2022, Mechanical Science and Engineering, 
-University of Illinois at Urbana-Champaign
-Advisor: Dr. [Mattia Gazzola](https://mattia-lab.com)
+<br />University of Illinois at Urbana-Champaign
+<br />Advisor: Dr. [Mattia Gazzola](https://mattia-lab.com)
 
 MS 2017, Mechanical Science and Engineering, 
-University of Illinois at Urbana-Champaign
-Advisor: Dr. [Girish Krishnan](https://monolithicsystemslab.ise.illinois.edu)
+<br />University of Illinois at Urbana-Champaign
+<br />Advisor: Dr. [Girish Krishnan](https://monolithicsystemslab.ise.illinois.edu)
 
+BS 2015, Mechanical Science and Engineering, 
+<br />Zhejiang University

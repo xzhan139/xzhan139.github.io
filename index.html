@@ -6,15 +6,27 @@ full-width: true
 #cover-img: "/assets/img/musculoskeletal.png"
 ---
 
-<div class="text-center">
-  <h1>Research at the intersection of soft mechanics, biology and neuroscience.</h1>
-  <br/>
-
+<div class="container">
   <img src="/assets/img/musculoskeletal.png" alt="Musculoskeletal" style="margin-top: -50px;">
+  <div class="top-center">Bottom Left
+    <h1>Research at the intersection of</h1>
+    <h1>soft mechanics,<h1> 
+    <h1>biology,</h1>
+    <h1>and neuroscience.</h1>
+  </div>
 </div>
 
-
-
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.top-center {
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
     
 

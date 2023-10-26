@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle:
 ---
-Born in [Handan](https://en.wikipedia.org/wiki/Handan), Grew up in [Beijing](https://en.wikipedia.org/wiki/Beijing), College in [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou), living in [Champaign](https://en.wikipedia.org/wiki/Champaign,_Illinois)
+Born in [Handan](https://en.wikipedia.org/wiki/Handan), Grew up in [Beijing](https://en.wikipedia.org/wiki/Beijing), College in [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou), Living in [Champaign](https://en.wikipedia.org/wiki/Champaign,_Illinois)
 ### Current Position
 Post-doc research associate, Carl R. Woese Institute for Genomic Biology, 
 <br />University of Illinois at Urbana-Champaign

@@ -4,7 +4,16 @@ title: My research
 subtitle:
 ---
 
-![Research](assets/img/Research.png){: style="float: left"}
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="assets/img/Research.png" alt="research_image">
+  </div>
+  <div>
+    <p>Some more text that will appear to the left of the image.</p>
+  </div>
+</div>
+
+
 
 Born in [Handan](https://en.wikipedia.org/wiki/Handan), Grew up in [Beijing](https://en.wikipedia.org/wiki/Beijing), College in [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou), Living in [Champaign](https://en.wikipedia.org/wiki/Champaign,_Illinois)
 ### Current Position

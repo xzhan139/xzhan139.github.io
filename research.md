@@ -4,7 +4,7 @@ title: My research
 subtitle:
 ---
 
-![Research](assets/img/Research.png)
+![Research](assets/img/Research.png){: style="float: left"}
 
 Born in [Handan](https://en.wikipedia.org/wiki/Handan), Grew up in [Beijing](https://en.wikipedia.org/wiki/Beijing), College in [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou), Living in [Champaign](https://en.wikipedia.org/wiki/Champaign,_Illinois)
 ### Current Position

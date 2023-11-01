@@ -6,7 +6,7 @@ subtitle:
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="assets/img/Research.png" alt="research_image">
+    ![Research](assets/img/Research.png){: style="float: left"}
   </div>
   <div>
     <p>Some more text that will appear to the left of the image.</p>

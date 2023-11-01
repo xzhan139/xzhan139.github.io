@@ -1,21 +1,34 @@
 ---
 layout: page
-title: About me
+title: Publication
 subtitle:
 ---
-Born in [Handan](https://en.wikipedia.org/wiki/Handan), Grew up in [Beijing](https://en.wikipedia.org/wiki/Beijing), College in [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou), Living in [Champaign](https://en.wikipedia.org/wiki/Champaign,_Illinois)
-### Current Position
-Post-doc research associate, Carl R. Woese Institute for Genomic Biology, 
-<br />University of Illinois at Urbana-Champaign
-<br />Advisor: Dr. [Mattia Gazzola](https://mattia-lab.com)
-### Education
-PhD 2022, Mechanical Science and Engineering, 
-<br />University of Illinois at Urbana-Champaign
-<br />Advisor: Dr. [Mattia Gazzola](https://mattia-lab.com)
 
-MS 2017, Mechanical Science and Engineering, 
-<br />University of Illinois at Urbana-Champaign
-<br />Advisor: Dr. [Girish Krishnan](https://monolithicsystemslab.ise.illinois.edu)
+Remote control of miniature robots integrating biological muscles and battery-free wireless optoelectronics,
+Science Robotics, 2023. († equal contribution)
+Kim†, Yang†, Zhang†, Li†, Vazquez-Guardado†, Park, Wang, Efimov, Dou, Wang, Park, Luan, Ni, Kim, Baek, Xie, Zhao,
+Gazzola, Rogers, Bashir. 
 
-BS 2015, Mechanical Science and Engineering, 
-<br />Zhejiang University
+Modeling and simulation of complex dynamic musculoskeletal architectures, Nature Communications, 2019.
+Zhang, Chan, Parthasarathy, Gazzola.
+
+Friction modulation in limbless, three-dimensional gaits and heterogeneous terrains, Nature Communications, 2021.
+Zhang, Naughton, Parthasarathy, Gazzola.
+
+Simulation and fabrication of stronger,larger and faster walking biohybrid machines, Advanced Functional Materials, 2018.
+Pagan-Diaz, Zhang, Grant, Kim, Aydin, Cvetkovic, Ko, Kong, Saif, Gazzola, Bashir. 
+
+Computationally assisted design and selection of maneuverable biological walking machines, Advanced Intelligent Systems, 2021.
+Wang, Zhang, Park, Park, Kilicarslan, Kim, Dou, Bashir, Gazzola. 
+
+Neuromuscular actuation of biohybrid motile bots, Proceedings of the National Academy of Sciences, 2019 
+Aydin†, Zhang†, Nuethong, Pagan-Diaz, Bashir, Gazzola, Saif. († equal contribution)
+
+’Mind in Vitro’ platforms: Versatile, scalable, robust, and open solutions to interfacing with living neurons, Advanced Science (In Revision), 2023
+Zhang, Dou, Kim, Upadhyay, Havert, Kang, Kazemi, Huang, Aydin, Huang, Rahman, Ellis-Mohr, Noblet, Lim, Chung, Gritton, Saif, Kong, Beggs, Gazzola. 
+
+A soft wearable sleeve for joint stiffness modulation, IEEE AIM, 2016.
+Zhang, Singh, Krishnan.  
+
+A nested pneumatic muscle arrangement for amplified stroke and force behavior, Journal of Intelligent Material Systems and Structures, 2017.
+Zhang, Krishnan. 

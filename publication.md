@@ -27,11 +27,11 @@ Gazzola, Rogers, Bashir. († equal contribution)
 [A pipe-climbing soft robot](https://ieeexplore.ieee.org/abstract/document/8793815), **IEEE International Conference on Robotics and Automation**, 2019
 <br />Singh, Patiballa, **Zhang**, Krishnan.
 
-[Simulation and fabrication of stronger,larger and faster walking biohybrid machines](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201801145), **Advanced Functional Materials**, 2018.
-<br />Pagan-Diaz, **Zhang**, Grant, Kim, Aydin, Cvetkovic, Ko, Kong, Saif, Gazzola, Bashir. 
-
 [Augmented joint stiffness and actuation using architectures of soft pneumatic actuators](https://ieeexplore.ieee.org/abstract/document/8460746), **IEEE International Conference on Robotics and Automation**, 2019
 <br />Thompson, **Zhang**, Ayala, Hsiao-Wecksler, Krishnan.
+
+[Simulation and fabrication of stronger,larger and faster walking biohybrid machines](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201801145), **Advanced Functional Materials**, 2018.
+<br />Pagan-Diaz, **Zhang**, Grant, Kim, Aydin, Cvetkovic, Ko, Kong, Saif, Gazzola, Bashir. 
 
 [A nested pneumatic muscle arrangement for amplified stroke and force behavior](https://journals.sagepub.com/doi/abs/10.1177/1045389X17730920), **Journal of Intelligent Material Systems and Structures**, 2017.
 <br />**Zhang**, Krishnan. 

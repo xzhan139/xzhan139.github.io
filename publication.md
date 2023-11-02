@@ -24,14 +24,14 @@ Gazzola, Rogers, Bashir. († equal contribution)
 [Neuromuscular actuation of biohybrid motile bots](https://www.pnas.org/doi/abs/10.1073/pnas.1907051116), **Proceedings of the National Academy of Sciences**, 2019 
 <br />Aydin†, **Zhang**†, Nuethong, Pagan-Diaz, Bashir, Gazzola, Saif. († equal contribution)
 
-[A pipe-climbing soft robot](https://ieeexplore.ieee.org/abstract/document/8793815), **IEEE International Conference on Robotics and Automation**, 2019
+[A pipe-climbing soft robot](https://ieeexplore.ieee.org/abstract/document/8793815), **IEEE International Conference on Robotics and Automation (ICRA)**, 2019
 <br />Singh, Patiballa, **Zhang**, Krishnan.
-
-[Augmented joint stiffness and actuation using architectures of soft pneumatic actuators](https://ieeexplore.ieee.org/abstract/document/8460746), **IEEE International Conference on Robotics and Automation**, 2019
-<br />Thompson, **Zhang**, Ayala, Hsiao-Wecksler, Krishnan.
 
 [Simulation and fabrication of stronger,larger and faster walking biohybrid machines](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201801145), **Advanced Functional Materials**, 2018.
 <br />Pagan-Diaz, **Zhang**, Grant, Kim, Aydin, Cvetkovic, Ko, Kong, Saif, Gazzola, Bashir. 
+
+[Augmented joint stiffness and actuation using architectures of soft pneumatic actuators](https://ieeexplore.ieee.org/abstract/document/8460746), **IEEE International Conference on Robotics and Automation (ICRA)**, 2018
+<br />Thompson, **Zhang**, Ayala, Hsiao-Wecksler, Krishnan.
 
 [A nested pneumatic muscle arrangement for amplified stroke and force behavior](https://journals.sagepub.com/doi/abs/10.1177/1045389X17730920), **Journal of Intelligent Material Systems and Structures**, 2017.
 <br />**Zhang**, Krishnan. 

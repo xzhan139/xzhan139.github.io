@@ -36,7 +36,7 @@ Gazzola, Rogers, Bashir. († equal contribution)
 [A nested pneumatic muscle arrangement for amplified stroke and force behavior](https://journals.sagepub.com/doi/abs/10.1177/1045389X17730920), **Journal of Intelligent Material Systems and Structures**, 2017.
 <br />**Zhang**, Krishnan. 
 
-[A soft wearable sleeve for joint stiffness modulation](https://ieeexplore.ieee.org/abstract/document/7576777), **IEEE Advanced Intelligent Mechatronics**, 2016.
+[A soft wearable sleeve for joint stiffness modulation](https://ieeexplore.ieee.org/abstract/document/7576777), **IEEE Advanced Intelligent Mechatronics (AIM)**, 2016.
 <br />**Zhang**, Singh, Krishnan.  
 
 

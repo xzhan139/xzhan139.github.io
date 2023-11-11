@@ -73,7 +73,8 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
   ORCID: "https://orcid.org/0000-0001-8601-4160"
-  google-scholar: "https://scholar.google.com/citations?user=tZOzE60AAAAJ&hl=en"
+  google-scholar: "https://scholar.google.com/citations?hl=en&user=tZOzE60AAAAJ"
+  
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname

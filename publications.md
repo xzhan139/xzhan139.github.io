@@ -4,7 +4,7 @@ title: Publications
 subtitle:
 ---
 
-[’Mind in Vitro’ platforms: Versatile, scalable, robust, and open solutions to interfacing with living neurons](https://www.biorxiv.org/content/10.1101/2023.08.21.554033v1.abstract), **Advanced Science** (In press), 2023
+[’Mind in Vitro’ platforms: Versatile, scalable, robust, and open solutions to interfacing with living neurons](https://onlinelibrary.wiley.com/doi/10.1002/advs.202306826), **Advanced Science**, 2023.
 <br />**Zhang**, Dou, Kim, Upadhyay, Havert, Kang, Kazemi, Huang, Aydin, Huang, Rahman, Ellis-Mohr, Noblet, Lim, Chung, Gritton, Saif, Kong, Beggs, Gazzola. 
 
 [Remote control of miniature robots integrating biological muscles and battery-free wireless optoelectronics](https://www.science.org/doi/10.1126/scirobotics.add1053),

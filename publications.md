@@ -5,7 +5,7 @@ subtitle:
 ---
 
 [Neuronal innervation regulates the secretion of neurotrophic myokines and exosomes from
-skeletal muscle](https://onlinelibrary.wiley.com/doi/10.1002/advs.202306826), **Proceedings of the National Academy of Sciences**, 2024.
+skeletal muscle](https://www.pnas.org/doi/10.1073/pnas.2313590121), **Proceedings of the National Academy of Sciences**, 2024.
 <br />Huang, Upadhyay, Ahn, Sakakura, Pagan-Diaz, Cho, Weiss, Huang, Mitchell, Li, Tan, Deng, Ellis-Mohr, Dou, **Zhang**, Kang,
 Chen, Sweedler, Im, Bashir, Chung, Popescu, Gillette, Gazzola, Kong.
 

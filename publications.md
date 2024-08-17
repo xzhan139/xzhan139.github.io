@@ -4,6 +4,11 @@ title: Publications
 subtitle:
 ---
 
+[Neuronal innervation regulates the secretion of neurotrophic myokines and exosomes from
+skeletal muscle](https://onlinelibrary.wiley.com/doi/10.1002/advs.202306826), **Proceedings of the National Academy of Sciences**, 2024.
+<br />Huang, Upadhyay, Ahn, Sakakura, Pagan-Diaz, Cho, Weiss, Huang, Mitchell, Li, Tan, Deng, Ellis-Mohr, Dou, **Zhang**, Kang,
+Chen, Sweedler, Im, Bashir, Chung, Popescu, Gillette, Gazzola, Kong.
+
 [’Mind in Vitro’ platforms: Versatile, scalable, robust, and open solutions to interfacing with living neurons](https://onlinelibrary.wiley.com/doi/10.1002/advs.202306826), **Advanced Science**, 2023.
 <br />**Zhang**, Dou, Kim, Upadhyay, Havert, Kang, Kazemi, Huang, Aydin, Huang, Rahman, Ellis-Mohr, Noblet, Lim, Chung, Gritton, Saif, Kong, Beggs, Gazzola. 
 

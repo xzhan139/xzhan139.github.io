@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: contact
+title: contact
+subtitle: 
 ---
 
 ## My Working Location:

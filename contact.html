@@ -9,21 +9,21 @@ subtitle:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
-  /* Reset default body margin so image can go edge-to-edge */
   body {
-    margin: 0;
+    margin: 0;              /* Remove default margins */
+    padding: 0;
   }
 
   .container {
     position: relative;
-    width: 100%; /* Make sure container spans full width */
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+    width: 100vw;           /* Force full viewport width */
+    overflow: hidden;
   }
 
   .container img {
-    width: 100%;       /* Make image stretch full width */
-    height: auto;      /* Keep aspect ratio */
-    display: block;    /* Remove bottom whitespace */
+    width: 100vw;           /* Force image to full screen width */
+    height: auto;           /* Keep aspect ratio */
+    display: block;
   }
 
   .text-block {
@@ -32,7 +32,6 @@ subtitle:
     right: 20px;
     color: white;
     padding: 20px;
-    background: rgba(0, 0, 0, 0.5); /* Optional: adds readable contrast */
   }
 </style>
 </head>
@@ -40,7 +39,7 @@ subtitle:
 <body>
 
 <div class="container">
-  <img src="/assets/img/Contact.png" alt="Contact Image">
+  <img src="/assets/img/Contact.png" alt="Contact">
   <div class="text-block">
     <h4>Contact:</h4>
     <p>

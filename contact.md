@@ -4,10 +4,16 @@ title: contact
 subtitle: 
 ---
 
-## My Working Location:
-2200 South, 
-<br />Carl R. Woese Institute for Genomic Biology, 
-<br />Urbana, IL
 
-## My Email:
-xiaotian@ust.hk
+<div style="clear: both;">
+  <div style="float: left;width: 100%">
+    <img src="/assets/img/Contact.png">
+  </div>
+  <div align="justify", style="float: right;width: 33%;margin-right:5%">
+    <p >Room 2566, 
+    <br />Hong Kong University of Science and Technology
+    <br />Clear Water Bay
+    <br />Kowloon, Hong Kong SAR
+    <br />xiaotian@ust.hk
+    </p>
+  </div>

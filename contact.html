@@ -5,12 +5,31 @@ full-width: true
 subtitle: 
 ---
 
+<style>
+.container {
+  position: relative;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+}
 
-<div style="clear: both;">
-  <div style="float: left;width: 100%">
-    <img src="/assets/img/Contact.png">
-  </div>
-  <div align="justify", style="float: right;width: 33%;margin-right:5%">
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+</style>
+</head>
+<body>
+
+<h2>Image Text Blocks</h2>
+<p>How to place text blocks over an image:</p>
+
+<div class="container">
+  <img src="/assets/img/Contact.png" style="width:100%;">
+  <div class="text-block">
+    <h4>Contact:</h4>
     <p >Room 2566, 
     <br />Hong Kong University of Science and Technology
     <br />Clear Water Bay
@@ -19,3 +38,5 @@ subtitle:
     </p>
   </div>
 </div>
+
+</body>

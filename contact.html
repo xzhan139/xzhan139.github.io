@@ -4,33 +4,30 @@ title:
 full-width: true
 subtitle: 
 ---
-
-
-
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
-  body {
-    margin: 0;              /* Remove default margins */
-    padding: 0;
-  }
+  /* Remove default margins so the image can touch the edges */
+  body { margin: 0; }
 
-  html, body {
-  width: 100%;
-  overflow-x: hidden;
-  }
-
-  .container {
+  /* A class that BREAKS OUT of any centered/narrow parent */
+  .hero {
     position: relative;
-    width: 100vw;           /* Force full viewport width */
-    overflow: hidden;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    width: 100vw;         /* full viewport width */
+    max-width: 100vw;     /* prevent re-shrinking */
+    overflow: hidden;     /* hide any tiny overflow */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
   }
 
-  .container img {
-    width: 100vw;           /* Force image to full screen width */
-    height: auto;           /* Keep aspect ratio */
+  .hero img {
     display: block;
+    width: 100%;
+    height: auto;
   }
 
   .text-block {
@@ -39,16 +36,15 @@ subtitle:
     right: 20px;
     color: white;
     padding: 20px;
+    background: rgba(0,0,0,.45); /* optional for readability */
   }
 </style>
 </head>
-
 <body>
 
-<div class="container">
-  <div style="float: left;width: 100%">
-    <img src="/assets/img/Contact.png" alt="Contact">
-  </div>
+<!-- rename from .container to avoid Bootstrap conflicts -->
+<div class="hero">
+  <img src="/assets/img/Contact.png" alt="Contact">
   <div class="text-block">
     <h4>Contact:</h4>
     <p>

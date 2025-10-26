@@ -6,9 +6,50 @@ full-width: true
 #cover-img: "/assets/img/musculoskeletal.png"
 ---
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<div style="clear: both;">
-  <div style="float: left;width: 100%">
-    <img src="/assets/img/Research_new.png" alt="research_image">
+<style>
+  /* Remove default margins so the image can touch the edges */
+  body { margin: 0; }
+
+  /* A class that BREAKS OUT of any centered/narrow parent */
+  .hero {
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    margin-top: -20px;
+    width: 100vw;         /* full viewport width */
+    max-width: 100vw;     /* prevent re-shrinking */
+    overflow: hidden;     /* hide any tiny overflow */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  }
+
+  .hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .text-block {
+    position: absolute;
+    bottom: 40px;
+    right: 20px;
+    color: white;
+    padding: 20px;
+  }
+</style>
+</head>
+<body>
+
+<!-- rename from .container to avoid Bootstrap conflicts -->
+<div class="hero">
+  <img src="/assets/img/Research_new.png" alt="research_image">
+  <div class="text-block">
+    <h4>Contact:</h4>
   </div>
 </div>
+
+</body>

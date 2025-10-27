@@ -5,4 +5,50 @@ subtitle: Xiaotian Zhang
 full-width: true
 ---
 
-<img src="/assets/img/Front_image_3.png" alt="research_image" style="width: 100%;" style="margin-top:-20px;" style="margin-bottom:-30px;">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+  /* Remove default margins so the image can touch the edges */
+  body { margin: 0; }
+
+  /* A class that BREAKS OUT of any centered/narrow parent */
+  .hero {
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    margin-top: -20px;
+    margin-bottom: -30px;
+    width: 100vw;         /* full viewport width */
+    max-width: 100vw;     /* prevent re-shrinking */
+    overflow: hidden;     /* hide any tiny overflow */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+  }
+
+  .hero img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  .text-block {
+    position: absolute;
+    bottom: 40px;
+    right: 20px;
+    color: white;
+    padding: 20px;
+  }
+</style>
+</head>
+<body>
+
+<!-- rename from .container to avoid Bootstrap conflicts -->
+<div class="hero">
+  <img src="/assets/img/Front_image_3.png" alt="research_image">
+  <div class="text-block">
+  </div>
+</div>
+
+</body>
